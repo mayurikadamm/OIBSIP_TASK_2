@@ -17,7 +17,7 @@ class Machine {
 
     void login() {
 
-        int userid = 1221, password = 2390;
+        int userid = 1221, password = 2390;1
 
         System.out.println("\n\t\t\t\tWelcome to ATM Machine of Oasis....");
 
